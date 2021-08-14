@@ -33,7 +33,7 @@ body{
     width: 50%;
     top: 50%;
     left: 50%;
-    transform: translate(-50% , -50%) rotate(-25deg);
+    transform: translate(-50% , -50%) rotate(-27deg);
     animation: move 2s infinite alternate ease-in-out;
 }
 
